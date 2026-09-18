@@ -30,5 +30,5 @@ En mi experiencia interactiva vas a encontrar el desglose de los proyectos que l
 
 Colaboro con CoEs/HRBPs y equipos de innovación que buscan diseñar las organizaciones para el Futuro del Trabajo, poniendo en el centro el factor humano.
 
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/desiree-pelay )
+* **LinkedIn:** [Perfil profesional](https://linkedin.com/in/desiree-pelay )
 * **Ejes clave:** Diseño Organizacional, Estrategia HRBP, Neurociencias en Liderazgo, Upskilling para IA.
