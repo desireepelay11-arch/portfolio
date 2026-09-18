@@ -20,7 +20,7 @@ Un modelo predictivo en Python que traduce las tesis de Jessica Nordell (*"El fi
 
 ## 💼 Trayectoria Profesional & Casos de Éxito
 
-* **[Acceder a mi CV Interactivo & Portafolio de Proyectos de HR](./index.html)** *(Nota: Reemplazá index.html por el nombre exacto de tu archivo HTML actual si se llama distinto)*
+* **[Acceder a mi CV Interactivo & Portafolio de Proyectos de HR](./index.html)**
 
 En mi experiencia interactiva vas a encontrar el desglose de los proyectos que lideré en las áreas de **Talent Management, Diseño Organizacional y Desarrollo de Liderazgo**, conectando los objetivos de la mesa directiva con ejecuciones culturales medibles.
 
