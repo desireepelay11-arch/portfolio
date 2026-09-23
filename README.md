@@ -26,9 +26,10 @@ En mi experiencia interactiva vas a encontrar el desglose de los proyectos que l
 
 ---
 
-## ✉️ Consultorías & Estrategia de Negocio
+## 🧩 Comunidad HR
 
 Colaboro con CoEs/HRBPs y equipos de innovación que buscan diseñar las organizaciones para el Futuro del Trabajo, poniendo en el centro el factor humano.
+Si te apacionan estos temas o estás explorando caminos similares en tu organización, **conectemos.**
 
 * **LinkedIn:** [Perfil profesional](https://linkedin.com/in/desiree-pelay )
 * **Ejes clave:** Diseño Organizacional, Estrategia HRBP, Neurociencias en Liderazgo, Upskilling para IA.
