@@ -7,7 +7,7 @@ A diferencia del enfoque tradicional de Recursos Humanos, utilizo **modelado de 
 
 ---
 
-## 🚀 Proyecto Técnico Insignia (Open Source Research)
+##  Proyecto Técnico Insignia (Open Source Research)
 
 ### 🧠 [Simulador de Sesgos Cognitivos en Sistemas de IA Locales](./🧠🤖organizational_bias_simulator.ipynb)
 Un modelo predictivo en Python que traduce las tesis de Jessica Nordell (*"El fin del sesgo"*) a métricas de negocio. 
@@ -18,7 +18,7 @@ Un modelo predictivo en Python que traduce las tesis de Jessica Nordell (*"El fi
 
 ---
 
-## 💼 Trayectoria Profesional & Casos de Éxito
+## 🚀 Trayectoria Profesional & Casos de Éxito
 
 * **[Acceder a mi CV Interactivo & Portafolio de Proyectos de HR]**: https://desireepelay11-arch.github.io/portfolio/
 
