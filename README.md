@@ -18,6 +18,15 @@ Un modelo predictivo en Python que traduce las tesis de Jessica Nordell (*"El fi
 
 ---
 
+## 🚀 Proyecto Data & Change Management Mindset
+
+### 🏭 [Workforce Continuity & Payroll Risk Mitigation Framework](ENLACE_A_TU_REPOSITORIO)
+*Un modelo desarrollado en Python para simular y mitigar los impactos financieros del ausentismo en entornos industriales y optimizar el flujo de cierre de nómina.*
+*   **Habilidades clave demostradas:** Modelado de costos laborales, análisis de desvíos en OPEX, cargas salariales y diseño de procesos de "War Room" para el fortalecimiento de líderes.
+*   **Impacto de negocio:** Demuestra cómo el ausentismo en áreas críticas impacta en e sobrecostos, ofreciendo un plan de gobernanza y transformación cultural.
+
+---
+
 ## 🚀 Trayectoria Profesional & Casos de Éxito
 
 * **[CV Interactivo & Portafolio de Proyectos de HR]**: https://desireepelay11-arch.github.io/portfolio/
