@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner_linkedin_editorial_bw.png" alt="Mi Banner" width="100%">
+</p>
 # DESIREÉ PELAY
 ### Strategic HR Business Partner (HRBP) | Organizational Design & Talent Management
 
