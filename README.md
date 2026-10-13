@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner_linkedin_editorial_bw.png" alt="Mi Banner" width="100%">
 </p>
-# DESIREÉ PELAY #
+## DESIREÉ PELAY
 ### Strategic HR Business Partner (HRBP) | Organizational Design & Talent Management
 
 Soy un HRBP enfocado en **traducir la visión del negocio en estrategias de personas, cultura y desarrollo de alto impacto**. Mi enfoque combina el diseño organizacional, la gestión del talento y HR Operations aplicados al liderazgo para construir equipos eficientes en la era de la Inteligencia Artificial.
