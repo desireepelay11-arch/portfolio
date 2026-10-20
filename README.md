@@ -16,7 +16,7 @@ A diferencia del enfoque tradicional de Recursos Humanos, utilizo **modelado de 
 
 ##  Proyecto Técnico Insignia (Open Source Research)
 
-### 🧠 [Simulador de Sesgos Cognitivos en Sistemas de IA Locales](./🧠🤖organizational_bias_simulator.ipynb)
+### 🧠 [Simulador de impacto en Retención de Talento y ROI de Sesgos Cognitivos en IA Locales de sistemas HRIS](./🧠🤖organizational_bias_simulator.ipynb)
 Un modelo predictivo en Python que traduce las tesis de Jessica Nordell (*"El fin del sesgo"*) a métricas de negocio. 
 
 * **El Problema de Negocio:** Cuando un HRBP diseña estrategias de adopción de IA local (como asistentes integrados en Workday, SuccessFactors o ERPs privados), entrenar estos modelos con datos históricos puede automatizar y escalar los sesgos de liderazgo pasados a nivel de software.
